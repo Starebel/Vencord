@@ -9,7 +9,6 @@
 // @license         GPL-3.0
 // @match           *://*.discord.com/*
 // @grant           GM_xmlhttpRequest
-// @grant           unsafeWindow
 // @run-at          document-start
 // @compatible      chrome Chrome + Tampermonkey or Violentmonkey
 // @compatible      firefox Firefox Tampermonkey
